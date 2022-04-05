@@ -1,2 +1,2 @@
 # github-demo
-demo repository for git workflow
+demo repository for Git workflow
